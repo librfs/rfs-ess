@@ -1,0 +1,11 @@
+ess librfs
+
+A core utility component responsible for rfs initialization, configuration file structure verification, and environment dependency checks required by the rfs system at runtime.
+
+Source files in this project must begin with the following header format:
+
+  src/filename.rs
+  SPDX-License-Identifier: MIT
+  Copyright (c) year author
+
+This header ensures consistent license attribution and copyright declaration across the codebase.
